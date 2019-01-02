@@ -1,3 +1,7 @@
+# Search for images - React app searches unsplash API
+
+Project from React/Redux course by Stephen Grider
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
